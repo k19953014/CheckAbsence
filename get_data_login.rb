@@ -1,5 +1,6 @@
 #!/home/xpizta/.rvm/rubies/ruby-2.3.1/bin/ruby
 
+require 'fileutils'
 require 'rubygems'
 require 'open-uri'
 require 'nokogiri'
@@ -34,12 +35,14 @@ main_page = agent.get('http://ntcbadm1.ntub.edu.tw/StdAff/STDWeb/ABS_SearchSACP.
 doc = main_page.parser
 all = doc.css("#ctl00_ContentPlaceHolder1_GRD").text
 
-system 'mkdir', '-p', '/home/xpizta/缺曠' unless Dir.exists?("/home/xpizta/缺曠")
+system 'mkdir', '-p', ENV['HOME'] + "/缺曠" #unless Dir.exists?("~/缺曠")
+#FileUtils::mkdir_p '~/缺曠'
+
 
 type = ["假別","日期","星期","節次"]
 a = 0
 t_name = "#{now_time}.txt"
-File.open("/home/xpizta/缺曠/#{t_name}", "w") do |file|
+File.open(ENV['HOME'] + "/缺曠/#{t_name}", "w+") do |file|
   doc.css("#ctl00_ContentPlaceHolder1_GRD td").each do |t|
     line = t.text.delete "\n\r "
     puts need = "#{type[a]}：#{line}"
