@@ -1,0 +1,48 @@
+<table class="GridView" cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GRD">
+		<tr>
+			<th scope="col" width="100">假別</th>
+<th scope="col" width="130">日期</th>
+<th scope="col" width="50">星期</th>
+<th scope="col" width="670">節次</th>
+		</tr>
+<tr class="RowStyle">
+			<td align="center" width="100">曠課</td>
+<td align="center" width="130">
+                                                                <span id="ctl00_ContentPlaceHolder1_GRD_ctl02_lb_recdate">2016/6/13</span>
+                                                            </td>
+<td align="center" width="50">1</td>
+<td width="670">
+                                                                <span id="ctl00_ContentPlaceHolder1_GRD_ctl02_lb_totalsection">05,06,07</span>
+                                                            </td>
+		</tr>
+<tr class="AlternatingRowStyle">
+			<td align="center" width="100">曠課</td>
+<td align="center" width="130">
+                                                                <span id="ctl00_ContentPlaceHolder1_GRD_ctl03_lb_recdate">2016/5/23</span>
+                                                            </td>
+<td align="center" width="50">1</td>
+<td width="670">
+                                                                <span id="ctl00_ContentPlaceHolder1_GRD_ctl03_lb_totalsection">01,02</span>
+                                                            </td>
+		</tr>
+<tr class="RowStyle">
+			<td align="center" width="100">病假</td>
+<td align="center" width="130">
+                                                                <span id="ctl00_ContentPlaceHolder1_GRD_ctl04_lb_recdate">2016/4/11</span>
+                                                            </td>
+<td align="center" width="50">1</td>
+<td width="670">
+                                                                <span id="ctl00_ContentPlaceHolder1_GRD_ctl04_lb_totalsection">05,06,07</span>
+                                                            </td>
+		</tr>
+<tr class="AlternatingRowStyle">
+			<td align="center" width="100">病假</td>
+<td align="center" width="130">
+                                                                <span id="ctl00_ContentPlaceHolder1_GRD_ctl05_lb_recdate">2016/3/24</span>
+                                                            </td>
+<td align="center" width="50">4</td>
+<td width="670">
+                                                                <span id="ctl00_ContentPlaceHolder1_GRD_ctl05_lb_totalsection">02,03,04</span>
+                                                            </td>
+		</tr>
+	</table>

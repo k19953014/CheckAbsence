@@ -1,0 +1,710 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+<title>
+	&#22283;&#31435;&#33274;&#21271;&#21830;&#26989;&#22823;&#23416;
+</title>
+    
+<style type="text/css">
+    <!--
+    @import url("../Inc/stylec.css");
+    @import url("../Inc/background.css");
+    @import url("../Inc/FooterBottom.css");
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/all_bg.gif);
+}
+-->
+</style>
+<script type="text/javascript" src="../Inc/PubJScript.js"></script>
+</head>
+
+<body onload="OpenVisible();">
+<form name="form1" method="post" action="./indexSTD.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODM5MTE3NzQxZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUgdGhpc1N1Ym1hc3RlciR0aGlzU3VibWFzdGVyX2hvbWVySEUnqk4pUCMVZ9EwTtuHWaS+x6FKx1U9OrL90LKFfA==">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="25D419D6">
+<div id="wrap"> 
+<div id="main_bottom">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+<table width="1003" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td align="left">
+            
+<link id="LinkMasterPage" href="../Styles/MasterPage.css" rel="stylesheet" type="text/css">
+<link id="Link3" href="../Styles/thickbox.css" rel="stylesheet" type="text/css">
+<link id="Link2" href="../Styles/JSCookMenu.css" rel="stylesheet" type="text/css">
+<link id="Link1" href="../Styles/public.css" rel="stylesheet" type="text/css">
+<link id="tabsJ" href="../Styles/tabsJ.css" rel="Stylesheet" type="text/css">
+<link id="Link4" href="../Styles/SysSubMenu.css" rel="Stylesheet" type="text/css">
+<link id="Link6" href="../Inc/stylec.css" rel="Stylesheet" type="text/css">
+<link id="Link7" href="../Inc/css_menuTitle.css" rel="Stylesheet" type="text/css">
+<link id="Link5" href="../Inc/buttonStyle.css" rel="Stylesheet" type="text/css">
+<link id="Link8" href="../Inc/GridStyle.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" language="javascript">    var the_web_path = "../";</script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/thickbox/jquery.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/thickbox/thickbox.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/MyUtility.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/Date.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/Inc/SysSubMenut.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/datePicker/WdatePicker.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/JSCookMenu/JSCookMenu.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/JSCookMenu/theme.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/jquery/jquery.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/jquery/jquery-ui.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/GridViewScroll/gridviewScroll.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="../JsScripts/GridViewScroll/gridviewScroll.js"></script>
+<script type="text/javascript" language="JavaScript" src="../Inc/GridScroll.js"></script>
+<script type="text/javascript" language="JavaScript" src="../Inc/PubJScript.js"></script>
+<script type="text/javascript"> 
+    function OpenVisible() {//&#39318;&#38913;&#19981;&#39023;&#31034;'&#38283;&#21855;&#21151;&#33021;&#34920;'
+        // alert(location.pathname);
+        var path = location.pathname.split("/");
+        for (var i in path) {
+            if (path[i] == 'index.aspx' || path[i] == 'indexSTD.aspx' || path[i] == 'indexParents.aspx') {
+                document.getElementById('thisSubmaster_OpenMenuLink').style.visibility = "hidden";
+            }
+            if (path[i] == 'WebSite.aspx') {
+                document.getElementById('thisSubmaster_OpenMenuLink').style.visibility = "hidden";
+//                document.getElementById('thisSubmaster_lb_Location').InnerHTML = '&#20351;&#29992;&#25163;&#20874;&#21450;&#32178;&#31449;&#22320;&#22294;';
+                //                alert(document.getElementById('thisSubmaster_lb_Location').innerHTML);
+                document.getElementById('thisSubmaster_lb_Location').innerHTML = '&#20351;&#29992;&#25163;&#20874;&#21450;&#32178;&#31449;&#22320;&#22294;';
+            }
+        }
+    }
+</script>
+
+
+<div style="display: none; visibility: visible; background-color: #E6E6E6;" id="PleaseWaitForMeDiv">
+    <table border="0" width="100%">
+        <tr>
+            <td style="font-size: 13px; font-weight: bold; text-align: center; height: 100px; vertical-align: middle; color: Black;">
+                <img id="PleaseWaitForMeImg" src="/images/thickbox/loadingAnimation.gif" alt="&#34389;&#29702;&#20013;">
+                <br><br><div id="PleaseWaitForMeMessage">&#34389;&#29702;&#20013;&#65292;&#35531;&#31245;&#20505;...</div>
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="outer_main1">
+    <div id="main">
+        <div id="header">
+            <div id="logo">
+                <table border="0" cellspacing="0" cellpadding="0" style="width: 100%; height: 15px;">
+                    <tr>
+                        <td class="top_word01" style="text-align: left;">
+                           <span id="thisSubmaster_SchoolName">&#22283;&#31435;&#33274;&#21271;&#21830;&#26989;&#22823;&#23416;</span>
+                        </td>
+                        <td width="150px">
+                            <div class="top_word03" style="text-align: right;">
+                                <table width="100%">
+                                    <tr>
+                                        <td style="width: 34%;">
+                                            <span id="thisSubmaster_thisSubmaster_Name" style="display: inline-block; width: 100%;">&#26519;&#25919;&#23416;</span>
+					    <input type="hidden" name="thisSubmaster$hidSchname" id="thisSubmaster_hidSchname" value="&#22283;&#31435;&#33274;&#21271;&#21830;&#26989;&#22823;&#23416;">
+                                        </td>
+                                        <td width="33%">
+                                            <a href="../login.aspx" id="thisSubmaster_logout">&#30331;&#20986;</a>
+                                        </td>
+                                        <td width="33%" align="center" valign="top">
+                                            <input src="../Images/homeicon.png" name="thisSubmaster$thisSubmaster_home" type="image" id="thisSubmaster_thisSubmaster_home" onclick="location.href = the_web_path + 'Portal/indexSTD.aspx'; return false;" style="border-width: 0px;">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="site_content">
+                
+                <div id="thisSubmaster_stm_menubar" class="stm_menubar" style="height: 27px;" align="left">
+                    <div id="ShowHeaderMenuDiv">
+                    </div>
+                    <span id="thisSubmaster_TagHeaderMenu_MenuList">
+<script language="javascript" type="text/javascript">
+
+                            var demoMenu = [
+	                    [null, '&#23416;&#29983;&#36039;&#35338;&#31995;&#32113;(&#35531;&#25353;&#25105;)', the_web_path + 'Portal/Main_total.aspx?SysID=STDWEB', '_self', '&#23416;&#29983;&#36039;&#35338;&#31995;&#32113;(&#35531;&#25353;&#25105;)']
+                    ];
+cmDraw('ShowHeaderMenuDiv', demoMenu, 'hbr', cmThemePanel, 'ThemePanel');
+</script>
+</span>
+                </div>
+                
+                
+                <div id="MyLocation" style="height: 28px;">
+                    <table id="thisSubmaster_LocationTable" border="0" style="width: 100%;">
+	<tr>
+		<td style="width: 17px; text-align: left;">
+                                <img src="../images/roadicon.png" id="thisSubmaster_Img1" width="16" height="18" alt="&#29694;&#22312;&#20301;&#32622;">
+                            </td>
+		<td style="text-align: left;">
+                                <span style="color: #132b79;">&#29694;&#22312;&#20301;&#32622;&#65306;</span><span id="thisSubmaster_lb_Location">&#39318;&#38913;</span>
+                            </td>
+		<td style="text-align: right; font-weight: bold;">
+                                <a href="javascript:;" id="thisSubmaster_OpenMenuLink">&nbsp;+&nbsp;&#38283;&#21855;&#21151;&#33021;&#34920;</a>
+                            </td>
+	</tr>
+</table>
+
+                </div>
+                
+                
+                <div id="thisSubmaster_SysSubMenuDiv" style="display:none;">
+                    <table align="center" width="900" height="650" border="0" cellpadding="0" cellspacing="0" style="background-repeat: no-repeat; background-position: bottom; background-image: url('/Images/con_allbg.gif');"> 
+                        <tr>
+                        <td valign="top">
+                        <div id="thisSubmaster_div_content" align="left" width="1000"></div>
+                        </td>
+                        </tr>
+                    </table> 
+                    <table>
+                        <tr>
+                            <td>
+                                                        <!--
+                                &#36984;&#25799;&#23376;&#31995;&#32113;&#65306;
+                                <select name="thisSubmaster$REC_SysID" id="thisSubmaster_REC_SysID">
+</select>-->&nbsp;
+                            </td>
+                        </tr>                        
+                        <tr style="vertical-align: top;">
+                            <td>
+                                <div id="thisSubmaster_DivBlock" class="blockDiv" style="width: 100%;
+                                        overflow: auto;"></div>
+                            </td>
+                            <td>
+                                &nbsp;
+                            </td>
+                            <td>
+                                <div id="thisSubmaster_DivMenuBlock" style="width: 99%;
+                                        overflow: auto; text-align: left;"><table border="0" width="95%"><tr style="font-size: 20px; height: 150px; text-align: center; color: red; vertical-align: middle; font-weight: bold;"><td id="no_data">&#24456;&#25265;&#27465;&#65292;&#20006;&#27794;&#26377;&#21151;&#33021;&#21487;&#20351;&#29992;!!</td></tr></table></div>
+                            </td>
+                        </tr>
+                    </table>
+                    <br>
+                    <script language="javascript" type="text/javascript">
+                        InitialSysSubMenu("thisSubmaster");
+                    </script>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+        </td>
+    </tr>
+  <tr>
+    <td><table width="1003" height="500" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="10" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="491" valign="top"><table width="1003" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="230" valign="top"><table width="220" border="0" align="left" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><table width="220" height="250" border="0" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
+                  <tr>
+                    <td bgcolor="#FBFBFB"><table width="121" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td><table width="121" height="174" border="0" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
+                          <tr>
+                            <td bgcolor="#FBFBFB">
+                                <img id="photo" src="../Inc/ShowIndexStdImg.ashx?dataPic=10246024" height="174" width="121" border="0">
+                            </td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="indexword02">
+                            <table width="100%">
+                                <tr>
+                                    <td colspan="2"><span id="ClassName">&#22235;&#25216;&#36039;&#31649;&#19977;&#24180;&#30002;&#29677;</span></td>
+                                </tr>
+                                <tr>
+                                    <td width="50%"><span id="StdNo">10246024</span></td>
+                                    <td width="50%"><span id="Name">&#26519;&#25919;&#23416;</span></td>
+                                </tr>
+                            </table>
+                        </td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td>
+                    <iframe frameborder="0" height="180" marginheight="0" marginwidth="0" scrolling="auto" src="../pub/CalendarSTD.aspx" width="225">
+                                
+                            </iframe>
+                </td>
+              </tr>
+            </table></td>
+            <td valign="top" class="style1"><table width="521" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><table width="521" border="0" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
+                  <tr>
+                    <td bgcolor="#FBFBFB">
+                        <img id="ImgSeaSon" src="../Images/pic_summer.jpg" height="199" width="519" border="0">
+                    
+                      </td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table width="521" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><img src="../images/cen_newstitile.jpg" width="521" height="30"></td>
+                  </tr>
+                  <tr>
+                    <td><table width="521" height="187" border="0" cellpadding="0" cellspacing="0" background="../images/cen_newsbg.jpg">
+                      <tr>
+                        <td valign="top"><table width="502" border="0" align="center" cellpadding="0" cellspacing="0">
+                          
+                          <tr>
+                            <td>
+                            <div id="myDiv" style="OVERFLOW: hidden; height: 170px">
+                                <table>
+                                    <tr>
+                                    <td id="pic1">
+                                        <table>
+                                            <tr>
+                                            <td>
+                                                <table id="DataListTime" cellspacing="0" border="0">
+	<tr>
+		<td>
+                                                   <table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                    <td height="10"><img src="../images/space.gif" width="1" height="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18" class="indexword03">&#8231;</td>
+                                                        <td width="484" class="indexword03">
+                                                        <span id="DataListTime_ctl00_SysTitle">&#36984;&#35506;&#26399;&#38291;&#65306;</span>
+                                                            
+                                                            </td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18">&nbsp;</td>
+                                                        <td width="484" class="indexword04">  <span id="DataListTime_ctl00_SysTime">3&#12289;&#21152;&#36864;&#36984;&#26178;&#38291;&#24050;&#32080;&#26463;&#65281;</span>
+</td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><img src="../images/cen_newsline.gif" width="502" height="8"></td>
+                                                    </tr>
+                                                </table>
+                                                </td>
+	</tr>
+<tr>
+		<td>
+                                                   <table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                    <td height="10"><img src="../images/space.gif" width="1" height="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18" class="indexword03">&#8231;</td>
+                                                        <td width="484" class="indexword03">
+                                                        <span id="DataListTime_ctl01_SysTitle">&#26399;&#20013;&#25104;&#32318;&#38283;&#25918;&#26597;&#35426;&#26178;&#38291;&#65306;</span>
+                                                            
+                                                            </td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18">&nbsp;</td>
+                                                        <td width="484" class="indexword04">  <span id="DataListTime_ctl01_SysTime">2016-05-04 15:00:00</span>
+</td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><img src="../images/cen_newsline.gif" width="502" height="8"></td>
+                                                    </tr>
+                                                </table>
+                                                </td>
+	</tr>
+<tr>
+		<td>
+                                                   <table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                    <td height="10"><img src="../images/space.gif" width="1" height="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18" class="indexword03">&#8231;</td>
+                                                        <td width="484" class="indexword03">
+                                                        <span id="DataListTime_ctl02_SysTitle">&#26399;&#26411;&#25104;&#32318;&#38283;&#25918;&#26597;&#35426;&#26178;&#38291;&#65306;</span>
+                                                            
+                                                            </td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18">&nbsp;</td>
+                                                        <td width="484" class="indexword04">  <span id="DataListTime_ctl02_SysTime">2016-06-24 00:00:00</span>
+</td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><img src="../images/cen_newsline.gif" width="502" height="8"></td>
+                                                    </tr>
+                                                </table>
+                                                </td>
+	</tr>
+<tr>
+		<td>
+                                                   <table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                    <td height="10"><img src="../images/space.gif" width="1" height="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18" class="indexword03">&#8231;</td>
+                                                        <td width="484" class="indexword03">
+                                                        <span id="DataListTime_ctl03_SysTitle">&#22635;&#23531;&#26399;&#20013;&#25945;&#23416;&#35413;&#37327;&#38283;&#25918;&#26178;&#38291;&#65306;</span>
+                                                            
+                                                            </td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18">&nbsp;</td>
+                                                        <td width="484" class="indexword04">  <span id="DataListTime_ctl03_SysTime">2016-06-06 08:00:00  &#33267;  2016-06-20 23:59:00</span>
+</td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><img src="../images/cen_newsline.gif" width="502" height="8"></td>
+                                                    </tr>
+                                                </table>
+                                                </td>
+	</tr>
+<tr>
+		<td>
+                                                   <table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                    <td height="10"><img src="../images/space.gif" width="1" height="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18" class="indexword03">&#8231;</td>
+                                                        <td width="484" class="indexword03">
+                                                        <span id="DataListTime_ctl04_SysTitle">&#22635;&#23531;&#26399;&#26411;&#25945;&#23416;&#35413;&#37327;&#38283;&#38283;&#25918;&#26178;&#38291;&#65306;</span>
+                                                            
+                                                            </td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><table width="502" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        <td width="18">&nbsp;</td>
+                                                        <td width="484" class="indexword04">  <span id="DataListTime_ctl04_SysTime">2016-06-06 08:00:00  &#33267;  2016-06-20 23:59:00</span>
+</td>
+                                                        </tr>
+                                                    </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td><img src="../images/cen_newsline.gif" width="502" height="8"></td>
+                                                    </tr>
+                                                </table>
+                                                </td>
+	</tr>
+</table>
+                                             
+                                            </td>
+                                            </tr>
+                                           
+                                        </table>
+                                    </td>
+                                    </tr>
+                                    <tr><td id="pic2"></td></tr>
+                                </table>
+                                </div>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td>&nbsp;</td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+            <td width="230" valign="top"><table width="219" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><table width="219" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><img src="../images/right_t01.jpg" width="219" height="31"></td>
+                  </tr>
+                  <tr>
+                    <td height="10"><img src="../images/space.gif" width="1" height="1"></td>
+                  </tr>
+                  <tr>
+                    <td>
+<table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="17">&nbsp;</td>
+                        <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                            <td width="189" class="indexword01"><a href="http://mail.google.com/a/ntub.edu.tw/" target="mail">&#23416;&#29983;&#38651;&#23376;&#37109;&#20214;</a></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table>
+                      <table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="17">&nbsp;</td>
+                          <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                <td width="189" class="indexword01"><a href="http://ntubelearn.ntub.edu.tw/login.php?Data=27272728282727282627272728282727282630313028272728262727272827272827272826272828282828282826272631879137917879137917029177379783673682190704722797249" id="link_HM" target="_blank" style="cursor: pointer">&#20316;&#26989;&#31649;&#29702;</a></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                      <table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="17">&nbsp;</td>
+                          <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                <td width="189" class="indexword01"><a href="http://140.131.110.236/_main/proc_login.jsp?Data=27272728282727282627272728282727282630313028272728262727272827272827272826272828282828282826272631879137917879137917029177379783673682190704722797249" id="link_eportfolio" target="_eportfolio" style="cursor: pointer">&#24107;&#29983;&#29983;&#28079;&#27511;&#31243;&#27284;&#26696;&#31995;&#32113;</a></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                      <table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="17">&nbsp;</td>
+                          <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                <td width="189" class="indexword01"><a href="../TchWeb/Post_STDList.aspx" target="_blank">&#31995;&#25152;&#20844;&#21578;&#21015;&#34920;</a></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                      
+                      <table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="17">&nbsp;</td>
+                          <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                <td width="189" class="indexword01">
+                                    <a href="../StdAff/STDWeb/Teacher_Care.aspx" id="link_Msg" target="_self">&#38928;&#35686;&#35338;&#24687;(0)</a>
+                                </td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                      
+                      
+                      <table id="TB_GRD" width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="17">&nbsp;</td>
+		<td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                <td width="189" class="indexword01">
+                                    <a href="../ACAD/STDWEB/GRD_Warning_Report.aspx" id="link_GrdMsg" target="_self">&#25104;&#32318;&#33256;&#30028;&#35686;&#31034;(1)</a>
+                                </td>
+                              </tr>
+                          </table></td>
+	</tr>
+</table>
+
+                      
+                      <table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="17">&nbsp;</td>
+                          <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                <td width="189" class="indexword01"><a href="http://140.131.110.24/gets.asp?Data=27272728282727282627272728282727282630313028272728262727272827272827272826272828282828282826272631879137917879137917029177379783673682190704722797249" id="link_Language" target="_language" style="cursor: pointer">&#35486;&#25991;&#32218;&#19978;&#28204;&#35430;&#24179;&#21488;</a></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+</td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table width="219" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><img src="../images/right_t02.jpg" width="219" height="31"></td>
+                  </tr>
+                  <tr>
+                    <td height="10"><img src="../images/space.gif" width="1" height="1"></td>
+                  </tr>
+                  <tr>
+                    <td>
+<table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="17">&nbsp;</td>
+                          <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                <td width="189" class="indexword02"><a href="../pub/WebSite.aspx">&#20351;&#29992;&#25163;&#20874;&#21450;&#32178;&#31449;&#22320;&#22294;</a></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                      
+                        
+                      
+                      <table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="17">&nbsp;</td>
+                            <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                  <td width="189" class="indexword02">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                        </table>
+                      <table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="17">&nbsp;</td>
+                            <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                  <td width="189" class="indexword02">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                        </table>
+                      <table width="219" height="30" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="17">&nbsp;</td>
+                            <td width="202"><table width="202" border="0" cellspacing="0" cellpadding="0" style="height: 17px">
+                                <tr>
+                                  <td width="13"><img src="../images/right_icon.gif" width="5" height="5"></td>
+                                  <td width="189" class="indexword02">&nbsp;</td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                      </table>
+</td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr> <td height="10" valign="top">&nbsp;</td> </tr>
+           <tr> 
+                <td colspan="3" align="center">
+                    <table width="86%">
+                        <tr>
+                            <td>
+                                <iframe frameborder="0" height="150" marginheight="0" marginwidth="0" width="100%" scrolling="auto" src="../TchWeb/Post_STDList.aspx">  </iframe>
+                            </td>  
+                        </tr> 
+                    </table>
+                </td>  
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="10" valign="top">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+</tr> 
+</table>
+ </div>
+ </div>
+    <div id="footer_bottom">
+    
+<link id="LinkMasterPage" href="../Styles/MasterPage.css" rel="stylesheet" type="text/css">
+<div style="height: 15px;"></div>  
+<div id="footer">
+    <table width="100%" border="0" style="text-align: center;" cellpadding="0" cellspacing="0">
+        <tr>
+        <td>
+            <table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                <td height="26" class="foot_word01"></td>
+                </tr>
+                <tr>
+                <td height="37" style="text-align: left; vertical-align: bottom;">
+                    <img src="../images/foot_copy.gif" id="MySubmasterFooter_Img1" width="295" height="16">
+                </td>
+                </tr>
+            </table>
+        </td>
+        </tr>
+    </table>
+</div> 
+    </div> 
+
+<script type="text/javascript">window.document.onkeypress=function(){return EnterDisable(event);};</script><script type="text/javascript">window.document.onkeypress=function(){return EnterDisable(event);};</script>
+</form>
+<script type="text/javascript">
+    var speed = 35;
+    var pic = document.getElementById('myDiv');
+    var pic2 = document.getElementById('pic2');
+    var pic1 = document.getElementById('pic1');
+
+    pic2.innerHTML = pic1.innerHTML;
+    pic.scrollTop = pic.scrollTop;
+    function Marquee() {
+        if (pic.scrollTop <= 0)
+            pic.scrollTop += pic2.offsetHeight;
+        else {
+            pic.scrollTop--;
+        }
+    }
+    var MyMar = setInterval(Marquee, speed)
+    pic.onmouseover = function () { clearInterval(MyMar); }
+    pic.onmouseout = function () { MyMar = setInterval(Marquee, speed); }
+</script>
+</body>
+</html>
