@@ -51,6 +51,8 @@ File.open(ENV['HOME'] + "/缺曠/#{t_name}", "w+") do |file|
       file.puts ""
     end
   end
+  puts total = doc.css("#ctl00_ContentPlaceHolder1_Lab_count").text.delete(" ")
+  file.puts total
 end
 
 
