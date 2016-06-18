@@ -1,11 +1,8 @@
 #!/home/xpizta/.rvm/rubies/ruby-2.3.1/bin/ruby
 
-require 'fileutils'
 require 'rubygems'
-require 'open-uri'
 require 'nokogiri'
 require 'mechanize'
-require 'io/console'
 require 'highline'
 
 time = Time.new
